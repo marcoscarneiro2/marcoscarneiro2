@@ -1,6 +1,6 @@
-![banner](https://i.imgur.com/kvvcAal.png)
-
 <h1 align="center">Olá 👋, sou Marcos Paulo Carneiro Tavares</h1>
+![banner](https://i.imgur.com/16ZanLB.png)
+
 <h3 align="center">Desenvolvedor Full Stack Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscarneiro2&label=Visualiza%C3%A7%C3%A3o%20de%20perfil&color=030c54&style=flat" alt="marcoscarneiro2" /> </p>
