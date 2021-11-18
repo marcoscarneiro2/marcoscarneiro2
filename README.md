@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, sou Marcos Paulo Carneiro Tavares</h1>
 ![banner](https://i.imgur.com/16ZanLB.png)
+
+<h1 align="center">Olá 👋, sou Marcos Paulo Carneiro Tavares</h1>
 
 <h3 align="center">Desenvolvedor Full Stack Python</h3>
 
