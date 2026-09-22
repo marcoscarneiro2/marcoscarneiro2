@@ -1,31 +1,158 @@
-![banner](https://i.imgur.com/16ZanLB.png)
+<div align="center">
 
-<h1 align="center">Olá 👋, sou Marcos Paulo Carneiro Tavares</h1>
+# 👋 Olá, eu sou Marcos Paulo
 
-<h3 align="center">Engenheiro de software</h3>
+### Software Engineer | Backend • Cloud • AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcoscarneiro2&label=Visualiza%C3%A7%C3%A3o%20de%20perfil&color=030c54&style=flat" alt="marcoscarneiro2" /> </p>
+Desenvolvedor de software focado em construção de **APIs, integrações, automações e soluções com Inteligência Artificial**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcoscarneiro2" alt="marcoscarneiro2" /></a> </p>
+Atualmente trabalho principalmente com **C# / .NET, Python, AWS e bancos relacionais**, participando desde decisões técnicas e arquitetura até desenvolvimento e evolução de sistemas.
 
-- 🔭 Atualmente estou trabalhando na [RSM Brasil](https://www.rsm.global/brazil/pt-br)
+<br/>
 
-- 🌱 Atualmente atuo com **Python (Automação), Django e C#**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Paulo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-carneiro-tavares-b0b563131/)
+[![GitHub](https://img.shields.io/badge/GitHub-marcoscarneiro2-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/marcoscarneiro2)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:marcospauloctavares@gmail.com)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/marcoscarneiro2](https://github.com/marcoscarneiro2)
+</div>
 
-- 📫Como me encontrar **marcospauloctavares@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-paulo-carneiro-tavares-b0b563131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-paulo-carneiro-tavares-b0b563131/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16601130/marcos-paulo-ct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16601130/marcos-paulo-ct" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/marcospaulo.carneirotavares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/marcospaulo.carneirotavares/" height="30" width="40" /></a>
+## 👨‍💻 Sobre mim
+
+```csharp
+public class MarcosPaulo
+{
+    public string Role => "Software Engineer";
+
+    public string[] MainStack =>
+    {
+        "C# / .NET",
+        "Python",
+        "Django",
+        "AWS",
+        "SQL"
+    };
+
+    public string[] Interests =>
+    {
+        "Backend Engineering",
+        "Software Architecture",
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "Automation"
+    };
+
+    public string CurrentFocus =>
+        "Building scalable systems and AI-powered solutions.";
+}
+```
+
+* 💻 Desenvolvimento de **APIs REST, serviços e integrações**
+* ⚙️ Automação de processos com **Python**
+* ☁️ Desenvolvimento e arquitetura utilizando **AWS**
+* 🗄️ Experiência com **SQL Server, Oracle e PostgreSQL**
+* 🤖 Desenvolvimento de soluções utilizando **LLMs e Inteligência Artificial**
+* 🏗️ Interesse crescente em **Arquitetura de Software e Engenharia de Software**
+* 🚀 Sempre buscando transformar processos complexos em soluções simples e escaláveis
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,django" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="bootstrap" width="40" height="40"/> </a
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoscarneiro2&show_icons=true&theme=dark&locale=en" alt="marcoscarneiro2" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+</p>
 
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,nginx" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+`SQL Server` • `Oracle` • `PostgreSQL`
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🤖 PatricIA — Recrutadora Virtual
+
+Plataforma de recrutamento utilizando Inteligência Artificial para análise semântica de currículos, compatibilidade com vagas e geração de perguntas personalizadas para candidatos.
+
+**Stack**
+
+`Python` `Django REST` `Next.js` `PostgreSQL` `AWS` `Gemini AI` `Docker`
+
+Principais recursos:
+
+* análise inteligente de currículos;
+* cálculo de compatibilidade candidato × vaga;
+* geração dinâmica de perguntas;
+* avaliação automatizada;
+* processamento de currículos em PDF;
+* arquitetura preparada para múltiplas empresas.
+
+---
+
+### ⚙️ Automação & Integrações
+
+Desenvolvimento de soluções para automação de processos corporativos envolvendo:
+
+`C#` `Python` `REST APIs` `AWS SQS` `Oracle` `SQL Server` `PostgreSQL`
+
+Experiência com processamento assíncrono, filas, integrações entre sistemas, automação web e processamento de documentos.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcoscarneiro2&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscarneiro2&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/marcoscarneiro2/marcoscarneiro2/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Vamos conversar?
+
+Tenho interesse em **Engenharia de Software, Backend, Cloud, Arquitetura e Inteligência Artificial**.
+
+[LinkedIn](https://www.linkedin.com/in/marcos-paulo-carneiro-tavares-b0b563131/) •
+[GitHub](https://github.com/marcoscarneiro2) •
+[Email](mailto:marcospauloctavares@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=marcoscarneiro2\&color=blueviolet\&style=flat-square\&label=Profile+Views)
+
+</div>
