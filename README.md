@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Marcos Paulo - Software Engineer | Backend, Cloud & AI" />
+<img src="https://i.imgur.com/naHjlkZ.png" width="100%" alt="Marcos Paulo - Software Engineer | Backend, Cloud & AI" />
 
 <br/>
 
@@ -30,49 +30,15 @@ Atuo principalmente com **C# / .NET, Python, AWS e bancos relacionais**, partici
 
 ## 👨‍💻 Sobre mim
 
-```csharp
-public class MarcosPaulo
-{
-    public string Role => "Software Engineer";
+Sou **Software Engineer** com foco em desenvolvimento backend, integrações,
+automação e soluções utilizando Inteligência Artificial.
 
-    public string[] MainStack =>
-    {
-        "C# / .NET",
-        "Python",
-        "Django",
-        "AWS",
-        "SQL"
-    };
-
-    public string[] Interests =>
-    {
-        "Backend Engineering",
-        "Software Architecture",
-        "Cloud Computing",
-        "Artificial Intelligence",
-        "Automation"
-    };
-
-    public string Portfolio => "https://dev.tatec.com.br";
-
-    public string CurrentFocus =>
-        "Building scalable systems and AI-powered solutions.";
-}
-```
-
-💻 Desenvolvimento de **APIs REST, serviços e integrações**
-
-⚙️ Automação de processos utilizando **Python e C#**
-
-☁️ Desenvolvimento e arquitetura de soluções utilizando **AWS**
-
-🗄️ Experiência com **SQL Server, Oracle e PostgreSQL**
-
-🤖 Desenvolvimento de soluções utilizando **LLMs e Inteligência Artificial**
-
-🏗️ Foco em **Engenharia e Arquitetura de Software**
-
-🚀 Transformando processos complexos em soluções simples, escaláveis e eficientes
+- 💻 Desenvolvimento de **APIs REST, serviços e integrações**
+- ⚙️ Automação de processos com **Python e C#**
+- ☁️ Desenvolvimento e arquitetura utilizando **AWS**
+- 🗄️ Experiência com **SQL Server, Oracle e PostgreSQL**
+- 🤖 Integração de **LLMs e IA** em aplicações
+- 🏗️ Foco em **Engenharia e Arquitetura de Software**
 
 ---
 
@@ -221,15 +187,6 @@ Algumas áreas que venho explorando:
 
 ---
 
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marcoscarneiro2/marcoscarneiro2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 🌐 Portfólio
 
